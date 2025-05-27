@@ -487,3 +487,9 @@ h2.project-heading {
 .email:hover {
   background-color: #c1351d;
 }
+
+@media only screen and (max-width: 720px) {
+  section.project {
+    padding: 0 0;
+  }
+}
